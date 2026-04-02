@@ -2,8 +2,7 @@
 
 <img src="Images/logo.png" alt="GuardAIn Watch Logo" width="220"/>
 
-# GuardAIn Watch
-### AI-Based Guardianship Fraud Detection System
+### AI-Based Guardianship Fraud Detection System Using Document Automation
 
 *Protecting vulnerable individuals through intelligent document analysis — powered by AI.*
 
