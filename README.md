@@ -86,7 +86,7 @@ GuardAIn Watch introduces an advanced fraud detection system that leverages stat
 
 ## 🛠️ Tech Stack
 
-![Tech Stack](images/slide-07.jpg)
+![Tech Stack](Images/slide-07.jpg)
 
 | Layer | Technology |
 |-------|------------|
