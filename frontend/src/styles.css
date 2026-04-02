@@ -1,0 +1,139 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  h1, h2, h3 {
+    color: #333;
+  }
+  
+  a {
+    color: #007bff;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background-color: #0069d9;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+  }
+  
+  .btn-success {
+    background-color: #267144;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  input[type="text"].filter{
+    width: auto;
+    margin-right: 10px;
+
+  }
+
+  button{
+    margin-left: 10px;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="password"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+  }
+  
+  input
+  .error {
+    color: #dc3545;
+    font-size: 0.9em;
+    margin-top: 5px;
+  }
+  
+  /* Dashboard grid */
+  .dashboard-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 20px;
+  }
+  
+  .dashboard-card {
+    background-color: #f8f9fa;
+    border: 1px solid #ccc;
+    padding: 30px;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .dashboard-card img {
+    width: 50px;
+    margin-bottom: 10px;
+  }
+  
+  /* File upload */
+  .file-upload-container {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .file-upload-box {
+    border: 2px dashed #ccc;
+    padding: 100px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: border-color 0.3s ease;
+  }
+  
+  .file-upload-box:hover {
+    border-color: #007bff;
+  }
+  
+  .file-upload-box img {
+    width: 80px;
+    margin-bottom: 20px;
+  }
+
+  .header-link { /* Create a CSS class for the header links */
+    text-decoration: none; /* Remove underline */
+    color: inherit; /* Inherit color from parent */
+  }
+  
+  .header-link:hover { /* Optional: Add hover effect if needed */
+    text-decoration: underline; /* Add underline on hover */
+  }
+
+  div.filterSearch{
+    padding-top: 3%;
+  }

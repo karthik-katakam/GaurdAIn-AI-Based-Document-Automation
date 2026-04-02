@@ -1,0 +1,164 @@
+{
+    "annotations": [
+        {
+            "id": "annotation-1",
+            "x": 266.0,
+            "y": 203.99999999999997,
+            "width": 371.0,
+            "height": 64.99999999999997,
+            "text": "Filing Attorney Name"
+        },
+        {
+            "id": "annotation-2",
+            "x": 565.0,
+            "y": 271.0,
+            "width": 253.00000000000023,
+            "height": 48.00000000000006,
+            "text": "Filing Attorney ID"
+        },
+        {
+            "id": "annotation-3",
+            "x": 569.0000000000001,
+            "y": 324.0,
+            "width": 267.0,
+            "height": 49.00000000000006,
+            "text": "Filing Attorney Agency Name"
+        },
+        {
+            "id": "annotation-4",
+            "x": 315.0,
+            "y": 371.00000000000006,
+            "width": 881.0000000000002,
+            "height": 103.0,
+            "text": "Filing Attorney Address"
+        },
+        {
+            "id": "annotation-5",
+            "x": 414.00000000000006,
+            "y": 478.00000000000006,
+            "width": 459.00000000000006,
+            "height": 54.99999999999994,
+            "text": "Filing Attorney Email"
+        },
+        {
+            "id": "annotation-6",
+            "x": 492.00000000000006,
+            "y": 538.0000000000001,
+            "width": 266.00000000000006,
+            "height": 52.999999999999886,
+            "text": "Filing Attorney Telephone Number"
+        },
+        {
+            "id": "annotation-7",
+            "x": 1555.0000000000002,
+            "y": 809.0,
+            "width": 399.9999999999998,
+            "height": 66.00000000000011,
+            "text": "Docket Number"
+        },
+        {
+            "id": "annotation-8",
+            "x": 160.00000000000006,
+            "y": 863.0000000000001,
+            "width": 513.0,
+            "height": 75.99999999999989,
+            "text": "Incapacitated Person"
+        },
+        {
+            "id": "annotation-9",
+            "x": 397.00000000000006,
+            "y": 2785.0000000000005,
+            "width": 192.99999999999994,
+            "height": 53.99999999999909,
+            "text": "Gaurdian Name"
+        },
+        {
+            "id": "annotation-10",
+            "x": 395.0,
+            "y": 2850.0,
+            "width": 842.0000000000002,
+            "height": 111.0,
+            "text": "Guardian Address"
+        },
+        {
+            "id": "annotation-11",
+            "x": 394.00000000000006,
+            "y": 3022.0,
+            "width": 409.00000000000006,
+            "height": 73.0,
+            "text": "Guardian Email"
+        },
+        {
+            "id": "annotation-12",
+            "x": 394.00000000000006,
+            "y": 2969.0,
+            "width": 270.00000000000006,
+            "height": 48.999999999999545,
+            "text": "Guardian Telephone Number"
+        },
+        {
+            "id": "annotation-13",
+            "x": 1545.0000000000002,
+            "y": 2784.0,
+            "width": 246.99999999999977,
+            "height": 62.000000000000455,
+            "text": "Gaurdian Name"
+        },
+        {
+            "id": "annotation-14",
+            "x": 1542.0,
+            "y": 2854.0,
+            "width": 833.0000000000005,
+            "height": 111.0,
+            "text": "Guardian Address"
+        },
+        {
+            "id": "annotation-15",
+            "x": 1548.0000000000002,
+            "y": 3023.9999999999995,
+            "width": 455.9999999999998,
+            "height": 62.0,
+            "text": "Guardian Email"
+        },
+        {
+            "id": "annotation-16",
+            "x": 1539.0,
+            "y": 2973.0,
+            "width": 345.00000000000045,
+            "height": 45.000000000000455,
+            "text": "Guardian Telephone Number"
+        },
+        {
+            "id": "annotation-17",
+            "x": 1343.3628318584072,
+            "y": 744.6902654867256,
+            "width": 608.4070796460176,
+            "height": 53.53982300884957,
+            "text": "Superior Court of New Jersey Chancery Division"
+        },
+        {
+            "id": "annotation-18",
+            "x": 199.5575221238938,
+            "y": 1786.283185840708,
+            "width": 2229.203539823009,
+            "height": 141.1504424778759,
+            "text": "Checkbox"
+        },
+        {
+            "id": "annotation-19",
+            "x": 199.5575221238938,
+            "y": 1985.840707964602,
+            "width": 2214.6017699115046,
+            "height": 233.62831858407094,
+            "text": "Checkbox"
+        },
+        {
+            "id": "annotation-20",
+            "x": 204.42477876106196,
+            "y": 2428.761061946903,
+            "width": 1844.6902654867258,
+            "height": 165.4867256637167,
+            "text": "Checkbox"
+        }
+    ]
+}

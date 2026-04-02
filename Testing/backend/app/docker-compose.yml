@@ -1,0 +1,59 @@
+version: "3"
+services:
+  postgres:
+    image: postgres:13
+    container_name: postgres-db
+    environment:
+      POSTGRES_USER: njcourtsuser
+      POSTGRES_PASSWORD: guardAInw@tch!
+      POSTGRES_DB: guardAInWatchdb
+    ports:
+    - "5432:5432"
+    volumes:
+    - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+  pgadmin:
+      image: dpage/pgadmin4
+      container_name: pgadmin
+      environment:
+        PGADMIN_DEFAULT_EMAIL: admin@example.com
+        PGADMIN_DEFAULT_PASSWORD: adminpass
+      ports:
+        - "5050:80"
+      depends_on:
+        - postgres
+      restart: unless-stopped
+      volumes:
+      - pgadmin_data:/var/lib/pgadmin
+
+  frontend:
+      build: ../../frontend
+      volumes:
+        - ../frontend:/app
+        - /app/node_modules
+      ports:
+        - "3001:3000"
+
+      
+  backend:
+      build: . 
+      volumes:
+        - ./:/app
+        - /app/node_modules
+      environment:
+        POSTGRES_USER: njcourtsuser
+        POSTGRES_PASSWORD: guardAInw@tch!
+        POSTGRES_DB: guardAInWatchdb
+        POSTGRES_HOST: postgres
+      ports:
+      - "5000:5000"
+      depends_on: 
+        - postgres
+      restart: unless-stopped
+
+volumes:
+  postgres_data:
+      driver: local
+  pgadmin_data:
+    driver: local

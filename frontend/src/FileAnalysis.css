@@ -1,0 +1,56 @@
+.file-analysis-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+.pdf-preview {
+  width: 45%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.fraud-analysis {
+  width: 45%;
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.score-highlight {
+  color: red;
+  font-weight: bold;
+}
+
+.fraud-analysis ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.fraud-analysis li {
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+.download-btn {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.download-btn:hover {
+  background-color: #0056b3;
+}
+
+.extracted-text {
+  width: 90%;
+  background: #f9f9f9;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,50 @@
+{
+    "FormName": [
+        "Guardianship Report EZ Accounting Form"
+    ],
+    "SCHEDULE_B-EZ__Disbursements": [
+        ""
+    ],
+    "Beginning_Cash_Balance": [
+        "19,80,98.00"
+    ],
+    "SCHEDULE_A-EZ:_Income": [
+        "21,09,12,00"
+    ],
+    "DocketNumber": [
+        ""
+    ],
+    "Ending_Cash_Balance": [
+        ""
+    ],
+    "GaurdianName": [
+        "Karthik Katakam"
+    ],
+    "SCHEDULE_A-EZ__Income": [
+        "21,09,12,00"
+    ],
+    "SCHEDULE_B-EZ:_Disbursements": [
+        ""
+    ],
+    "IncapacitatedPerson": [
+        "Kiri"
+    ],
+    "Date": [
+        ""
+    ],
+    "Schedule_A": [
+        {
+            "Source of Income (e.g. employment, social security)": "",
+            "Description (e.g. 12 months times $ amount, or lump sum of $ amount, etc.)": "asds",
+            "Total Income Amount": ""
+        }
+    ],
+    "Checkbox": {
+        "Have all of the incapacitated person's past and current state and federal tax returns?": "No",
+        "If a bond is required, is one filed that covers this period?": "",
+        "If a bond is required, is one filed that covers this?": "Yes",
+        "Have you identified, traced and collected all of the incapacitated person s assets?": "No",
+        "Is information Or assistance, whether from the court Or a community agency,?": "",
+        "Has the ownership of the property changed since the inventory or last report?": "No"
+    }
+}
