@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/logo.png" alt="GuardAIn Watch Logo" width="220"/>
+<img src="Images/logo.png" alt="GuardAIn Watch Logo" width="220"/>
 
 # GuardAIn Watch
 ### AI-Based Guardianship Fraud Detection System
@@ -17,7 +17,7 @@
 > **Capstone Project — Spring 2025**
 > Developed in partnership with the **New Jersey Judiciary**
 
-![GuardAIn Watch Title Slide](images/slide-01.jpg)
+![GuardAIn Watch Title Slide](Images/slide-01.jpg)
 
 </div>
 
@@ -106,7 +106,7 @@ GuardAIn Watch introduces an advanced fraud detection system that leverages stat
 
 ## 🏗️ System Architecture
 
-![System Architecture](images/slide-09.jpg)
+![System Architecture](Images/slide-09.jpg)
 
 The pipeline processes uploaded guardianship PDFs through the following stages:
 
